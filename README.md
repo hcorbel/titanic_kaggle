@@ -10,7 +10,7 @@ Table of Contents
 1.3. Nettoyage, exploration et création des features de base
 2. Baseline: tree classifier, sélection des features de base
 3. Optimisation hyperparamètetres tree classifier
----> permière soumission
+---> première soumission
 4. Méthodes ensemblistes
 4.1. Bagging
 4.1.1. Random Forest
