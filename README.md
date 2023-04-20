@@ -1,5 +1,7 @@
 # titanic_kaggle
+
 Predict survival on the titanic
+
 Lien vers notebook Kaggle :https://www.kaggle.com/code/hlnecorbel/corbel-survival-titanic/notebook
 
 
