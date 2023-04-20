@@ -1,6 +1,6 @@
 # titanic_kaggle
 
-Predict survival on the titanic using trees and ensembles (bagging and boosting)
+Predict survival on the titanic using trees and ensembles (bagging and boosting): best score = 0,78
 
 Lien vers notebook Kaggle :https://www.kaggle.com/code/hlnecorbel/corbel-survival-titanic/notebook
 
