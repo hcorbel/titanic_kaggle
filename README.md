@@ -1,6 +1,6 @@
 # titanic_kaggle
 
-Predict survival on the titanic
+Predict survival on the titanic using trees and ensembles (bagging and boosting)
 
 Lien vers notebook Kaggle :https://www.kaggle.com/code/hlnecorbel/corbel-survival-titanic/notebook
 
