@@ -6,6 +6,17 @@ Lien vers notebook Kaggle :https://www.kaggle.com/code/hlnecorbel/corbel-surviva
 
 Différentes versions du notebook, la dernière (version 16) avec les 2 scores de soumission
 
+Démarche de modélisation:
+
+De façon générale, examen d'un ensemble de métriques de performance pour chaque modèle et train_test split (75% 25%) aléatoire en amont des optimisation d'hyperparamètres.
+
+-entrainement d'un tree classifier sans contrainte, choix des features définitives
+-entrainement d'un tree classifier contraint par des hyperparamètres optimisés: première soumission (accuracy score)
+-entrainement d'un random forest, d'un extratreeclassifier, d'un adaboost avec hyperparamètres optimisés
+-entrainement d'un xgboost avec d'abord peu d'arbre et un taux d'apprentissage rapide, et sélection d'hyperparamètres sur cette base
+-Les hyperparamètres retenus précedemment sont ensuite utilisés avec un nombre croissant d'arbres et un taux décroissant d'apprentissage.
+-sélection du meilleur modèle (xgboost) et deuxième soumission (accuracy score)
+
 Table of Contents version 16
 
 1. Préparation des données
