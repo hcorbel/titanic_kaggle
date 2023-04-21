@@ -7,6 +7,7 @@ Lien vers notebook Kaggle :https://www.kaggle.com/code/hlnecorbel/corbel-surviva
 Différentes versions du notebook, la dernière (version 16) avec les 2 scores de soumission
 
 Table of Contents version 16
+
 1. Préparation des données
 1.1. Imports
 1.2. Récupération et description des données
